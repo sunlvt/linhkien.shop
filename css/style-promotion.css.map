@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,gBAAgB,CAAC;EAChB,WAAW,EAAE,IAAI;CACjB;;AACD,AAAA,CAAC,CAAC;EACD,eAAe,EAAE,eAAe;CAChC;;AACD,AAAA,kBAAkB,CAAC;EAClB,UAAU,EAAE,IAAI;CAChB;;AAED,MAAM,MAAM,MAAM,MAAM,SAAS,EAAE,KAAK;EACpC,AAAA,gBAAgB,CAAC;IACb,YAAY,EAAE,IAAI;IAClB,aAAa,EAAE,IAAI;GACtB",
+    "sources": [
+        "style-promotion.scss"
+    ],
+    "names": [],
+    "file": "style-promotion.css"
+}

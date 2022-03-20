@@ -1,0 +1,46 @@
+.container-fluid {
+  margin-top: 70px;
+}
+
+#warranty-content {
+  margin-top: 30px;
+}
+
+a {
+  text-decoration: none !important;
+}
+
+#google-map {
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.brand-img img {
+  width: 80px;
+  height: 80px;
+}
+
+@media (max-width: 576px) {
+  .col-xs-6 {
+    -webkit-box-flex: 0;
+        -ms-flex: 0 0 auto;
+            flex: 0 0 auto;
+    width: 50%;
+  }
+}
+
+@media (max-width: 400px) {
+  .col-xs-6 {
+    -webkit-box-flex: 0;
+        -ms-flex: 0 0 auto;
+            flex: 0 0 auto;
+    width: 100%;
+  }
+}
+
+.show_hide {
+  width: 150px;
+  height: 40px;
+}
+/*# sourceMappingURL=style-warranty.css.map */

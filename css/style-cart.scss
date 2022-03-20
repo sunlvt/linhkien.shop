@@ -1,0 +1,45 @@
+.container-fluid {
+	padding-top: 70px;
+	.container {
+		margin-top: 30px;
+	}
+}
+.imgHolder {
+	width: 80px;
+	height: 80px;
+}
+a {
+	text-decoration: none !important;
+}
+.itemside {
+	position: relative;
+	display: flex;
+	width: 100%;
+}
+.dlist-align {
+	display: -webkit-box;
+	display: -ms-flexbox;
+	display: flex;
+}
+[class*="dlist-"] {
+	margin-bottom: 5px;
+}
+.coupon {
+	border-radius: 1px;
+}
+#checkout, #backShop {
+	border-radius: 2px;
+	font-size: 15px;
+	padding: 10px;
+	cursor: pointer;
+	width: 100%;
+}
+#checkout {
+	color: black;
+	background-color: white;
+	&:hover {
+		background-color: burlywood;
+		border: none;
+		color: white;
+	}
+}
