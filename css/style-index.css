@@ -5,8 +5,11 @@
 
 #main-nav .navbar {
     height: 100px;
-    width: 100%;
     font-size: 20px;
+}
+
+#main-nav .navbar p {
+    font-size: 12px;
 }
 
 #main-nav .navbar li {
